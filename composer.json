@@ -1,0 +1,14 @@
+{
+  "name": "Mahjouba91/Count-content-signs",
+  "description": "This plugin allow you know the exact number of signs (characters) of your current post.",
+  "homepage": "https://github.com/Mahjouba91/Count-content-signs",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Mahjouba91",
+      "email": "contact@tiar-florian.fr"
+    }
+  ],
+  "type" : "wordpress-plugin"
+}
